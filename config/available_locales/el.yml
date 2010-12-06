@@ -1,0 +1,117 @@
+# Greek (el) translation for Typus (template)
+# by Spyros Livathinos <livathinos.spyros@gmail.com>
+
+<language>:
+
+  "A valid token is required": "Απαιτείται έγκυρο token"
+  "Actions": "Ενέργειες"
+  "Active": "Ενεργό"
+  "Add": "Προσθήκη"
+  "Add %{resource}": "Προσθήκη %{resource}"
+  "Add new": "Προσθήκη νέου"
+  "Are you sure?": "Είσαστε βέβαιοι;"
+  "Are you sure you want to leave this page?": "Είσαστε σίγουροι ότι επιθυμείτε να εγκαταλείψετε την παρούσα σελίδα;"
+  "Are you sure you want to sign out and end your session?": "Είσαστε σίγουροι ότι επιθυμείτε να αποσυνδεθείτε και να τερματίσετε το session;"
+  "As you're not the admin or the owner of this record you cannot edit it":"Δεν έχετε εισέλθει ως διαχειριστής ή ως δημιουργός της συγκεκριμένης εγγραφής και δεν μπορείτε να την τροποποιήσετε"
+
+  "Change %{attribute}?":"Τροποποίηση του χαρακτηριστικού %{attribute};"
+  "Change password":"Αλλαγή κωδικού"
+  "Checked if active":"Σημασμένο εάν είναι ενεργό"
+  "Click OK to continue, or click Cancel to stay on this page":"Επιλέξτε ΟΚ για συνέχεια ή Cancel για να παραμείνετε στην παρούσα σελίδα"
+  "Create %{resource}":"Δημιουργία %{resource}"
+  "Create one now":"Δημιουργία τώρα"
+
+  "Dashboard":"Πανόπτης"
+  "Do you want to cancel it?":"Επιθυμείτε να ακυρώσετε την ενέργεια;"
+  "Down":"Κάτω"
+
+  "Edit":"Επεξεργασία"
+  "Enter your email below to create the first user":"Εισάγετε το email σας παρακάτω για να δημιουργηθεί ο πρώτος χρήστης"
+  "Error! Typus User or role doesn't exist":"Σφάλμα! Ο Typus χρήστης ή ρόλος χρήστη δεν υφίσταται"
+
+  "False":"Σφάλμα"
+  "Filter":"Φίλτρο"
+  "Filter by %{attribute}":"Φιλτράρισμα ως πρός %{attribute}"
+
+  "Go to":"Μετάβαση σε"
+
+  "I remember my password":"Θυμάμαι τον κωδικό μου"
+  "If you didn't request a password update, you can ignore this message":"Στην περίπτωση που δεν έχετε ζητήσει ανανέωση του κωδικού σας μπορείτε να αγνοήσετε αυτό το μήνυμα"
+  "If you have made any changes to the fields without clicking the Save/Update entry button, your changes will be lost":"Εάν έχετε κάνει αλλαγές στα πεδία χωρίς να έχετε επιλέξει το πλήκτρο Αποθήκευσης/Ενημέρωσης οι αλλαγές σας πρόκειται ωα χαθούν" 
+  "Inactive":"Ανενεργός"
+
+  "Last few days":"Τελευταίες ημέρες"
+  "Last 30 days":"Τελευταίες 30 ημέρες"
+  "Last 7 days":"Τελευταίες 7 ημέρες"
+  "List":"Λίστα"
+  "Logged as":"Συνδεδεμένος ως"
+  "Login":"Σύνδεση"
+
+  "New":"Νέο"
+  "Next":"Επόμενο"
+
+  "Options":"Επιλογές"
+
+  "Password recovery link sent to your email":"Ο σύνδεσμος ανάκτησης κωδικού έχει αποσταλεί στο email σας"
+  "Previous":"Προηγούμενο"
+
+  "Record moved %{to}":"Η εγγραφή μεταφέρθηκε στο σημείο %{to}"
+  "Recover password":"Ανάκτηση κωδικού"
+  "Remove":"Απομάκρυνση"
+  "Remove %{attribute}":"Απομάκρυνση %{attribute}"
+  "Remove %{resource}?":"Απομάκρυνση %{resource}"
+  "Remove filter":"Απομάκρυνση φίλτρου"
+  "Remove search":"Απομάκρυνση αναζήτησης"
+  "Reset password":"Επαναφορά κωδικού"
+  "Resources":"Πόροι"
+
+  "Save %{resource}":"Αποθήκευση %{resource}"
+  "Search":"Αναζήτηση"
+  "Search by":"Αναζήτηση ως προς"
+  "Send us feedback":"Αποστολή feedback"
+  "Setup":"Εγκατάσταση"
+  "Show":"Εμφάνιση"
+  "Show %{resource}":"Εμφάνιση %{resource}"
+  "Sign in":"Είσοδος"
+  "Sign out":"Έξοδος"
+  "Sign up":"Εγγραφή"
+  "Submit a bug report":"Αποστείλετε μια περιγραφή σφάλματος"
+  "System Users Administration":"Διαχείριση χρηστών συστήματος"
+
+  "That doesn't seem like a valid email address":
+  "There are no %{records}":"Δεν υπάρχουν %{records}"
+  "There are no %{records} under this filter":"Δεν υπάρχουν εγγραφές %{records} υπό το παρόν φίλτρο"
+  "Today":"Σήμερα"
+  "Toggle is disabled":"Το toggle είναι απενεργοποιημένο"
+  "True":"Σωστό"
+
+  "Unrelate %{unrelate_model} from %{unrelate_model_from}?":"Αποσυντονισμός του %{unrelate_model} από %{unrelate_model_from}"
+  "Up":"Επάνω"
+
+  "View all %{attribute}":"Εμφάνιση όλων των χαρακτηριστικών τύπου %{attribute}"
+  "View site":"Εμφάνιση ιστοσελίδας"
+
+  "You're adding a new %{resource_from}":"Προσθέτετε μια νέα %{resource_from}"
+  "You're adding a new %{resource_from} to %{resource_to}":"Προσθέτετε μια νέα %{resource_from}"
+  "You're not allowed to toggle status":"Δεν σας επιτρέπεται αλλαγή της κατάστασης"
+  "You're not allowed to remove Typus Users":"Δεν σας επιτρέπεται η διαγραφή χρηστών του Typus"
+  "You're updating a %{resource_from}":"Ανανεώνετε έναν πόρο τύπου %{resource_from} "
+  "You're updating a %{resource_from} for %{resource_to}":"Ανανεώνετε έναν πόρο από %{resource_from} σε %{resource_to}"
+  "You can update your password at":"Μπορείτε να ανανεώσετε τον κωδικό σας παρακάτω"
+  "You can't change your role":"Δεν έχετε την δυνατότητα να αλλάξετε τον ρόλο σας"
+  "You can't remove yourself":"Δεν επιτρέπεται η διαγραφή του εαυτού σας"
+  "You can't toggle your status":"Δεν επιτρέπεται η αλλαγή της κατάστασής σας"
+
+  "%{attachment} can't be removed": "Το συννημένο %{attachment} δεν μπορεί να απομακρυνθεί"
+  "%{attachment} removed":"Το συννημένο %{attachment} απομακρύνθηκε"
+  "%{current_user_role} is not able to perform this action. (%{action})":"Χρήστες τύπου %{current_user_role} δεν είναι δυνατόν να εκτελέσουν αυτή την ενέργεια. (%{action})"
+  "%{model} filtered by %{filtered_by}":"Μοντέλα %{model} φιλτραρισμένα ως προς %{filtered_by}"
+  "%{model} successfully created":"Το μοντέλο %{model} δημιουργήθηκε επιτυχώς"
+  "%{model} successfully removed":"Το μοντέλο %{model} απομακρύνθηκε επιτυχώς"
+  "%{model} successfully updated":"Το μοντέλο %{model} ανανεώθηκε επιτυχώς"
+  "%{model} %{attribute} changed":"Το χαρακτηριστικό μοντέλου %{model} %{attribute} άλλαξε"
+  "%{model_a} cannot be related to %{model_b}":"Ένα μοντέλο %{model_a} δεν μπορεί να σχετίζεται με ένα μοντέλο %{model_b}"
+  "%{model_a} cannot be unrelated from %{model_b}":"Ένα μοντέλο %{model_a} δεν επιτρέπεται να είναι ασυσχέτιστο με ένα μοντέλο %{model_b}"
+  "%{model_a} related to %{model_b}":"Το μοντέλο %{model_a} σχετίζεται με το %{model_b}"
+  "%{model_a} successfully assigned to %{model_b}":"Το μοντέλο %{model_a} ανατέθηκε επιτυχώς στο %{model_b}"
+  "%{model_a} unrelated from %{model_b}":"Το μοντέλο %{model_a} είναι ασυσχέτιστο με το μοντέλο %{model_b}"
